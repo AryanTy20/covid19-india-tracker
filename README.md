@@ -8,3 +8,6 @@ state district wise api ='https://api.covid19india.org/state_district_wise.json'
 first fetch data from api url 
 then you will get promise in response convert it in json object
 after that get data from it 
+
+
+For learning Purpose Only  Dont modify Footer
